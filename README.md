@@ -12,7 +12,7 @@ Simple board for stm32h750 value line device in LQFP100 package.
 
 #### Board contents:
 
-![1542163171895](/home/martin/Proyectos/kicad/proto-h750/docs/render_3d-top.png)
+![1542163171895](docs/render_3d-top.png)
 
 - STM32H750VBT6: 1MBy RAM, 128KBy Flash at 400MHz CPU
 - External flash in QSPI1 interface with execute in place (4, 8 or 16MBytes)
@@ -31,11 +31,11 @@ Simple board for stm32h750 value line device in LQFP100 package.
 
 #### Dimensions:
 
-![1542165257633](/home/martin/Proyectos/kicad/proto-h750/docs/dimetions-size.png)
+![1542165257633](docs/dimetions-size.png)
 
 #### Schematics:
 
-![](/home/martin/Proyectos/kicad/proto-h750/docs/proto-h750.svg)
+![Schematics](docs/proto-h750.svg)
 
 #### BOM and Gerbers
 
