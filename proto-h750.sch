@@ -22,6 +22,8 @@ F 0 "C4" H 7242 996 50  0000 L CNN
 F 1 "100n" H 7242 905 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric" H 7150 950 50  0001 C CNN
 F 3 "~" H 7150 950 50  0001 C CNN
+F 4 "885012207045" H 0   0   50  0001 C CNN "PartNumber"
+F 5 "Wurth Electronics Inc" H 7150 950 50  0001 C CNN "Manufacturer"
 	1    7150 950 
 	1    0    0    -1  
 $EndComp
@@ -33,6 +35,8 @@ F 0 "C7" H 7592 996 50  0000 L CNN
 F 1 "100n" H 7592 905 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric" H 7500 950 50  0001 C CNN
 F 3 "~" H 7500 950 50  0001 C CNN
+F 4 "885012207045" H 0   0   50  0001 C CNN "PartNumber"
+F 5 "Wurth Electronics Inc" H 0   0   50  0001 C CNN "Manufacturer"
 	1    7500 950 
 	1    0    0    -1  
 $EndComp
@@ -44,6 +48,8 @@ F 0 "C8" H 7942 996 50  0000 L CNN
 F 1 "100n" H 7942 905 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric" H 7850 950 50  0001 C CNN
 F 3 "~" H 7850 950 50  0001 C CNN
+F 4 "885012207045" H 0   0   50  0001 C CNN "PartNumber"
+F 5 "Wurth Electronics Inc" H 0   0   50  0001 C CNN "Manufacturer"
 	1    7850 950 
 	1    0    0    -1  
 $EndComp
@@ -55,6 +61,8 @@ F 0 "C10" H 8292 996 50  0000 L CNN
 F 1 "100n" H 8292 905 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric" H 8200 950 50  0001 C CNN
 F 3 "~" H 8200 950 50  0001 C CNN
+F 4 "885012207045" H 0   0   50  0001 C CNN "PartNumber"
+F 5 "Wurth Electronics Inc" H 0   0   50  0001 C CNN "Manufacturer"
 	1    8200 950 
 	1    0    0    -1  
 $EndComp
@@ -66,6 +74,8 @@ F 0 "C12" H 8642 996 50  0000 L CNN
 F 1 "100n" H 8642 905 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric" H 8550 950 50  0001 C CNN
 F 3 "~" H 8550 950 50  0001 C CNN
+F 4 "885012207045" H 0   0   50  0001 C CNN "PartNumber"
+F 5 "Wurth Electronics Inc" H 0   0   50  0001 C CNN "Manufacturer"
 	1    8550 950 
 	1    0    0    -1  
 $EndComp
@@ -77,6 +87,8 @@ F 0 "C13" H 8992 996 50  0000 L CNN
 F 1 "100n" H 8992 905 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric" H 8900 950 50  0001 C CNN
 F 3 "~" H 8900 950 50  0001 C CNN
+F 4 "885012207045" H 0   0   50  0001 C CNN "PartNumber"
+F 5 "Wurth Electronics Inc" H 0   0   50  0001 C CNN "Manufacturer"
 	1    8900 950 
 	1    0    0    -1  
 $EndComp
@@ -103,6 +115,8 @@ F 0 "C2" H 6742 1246 50  0000 L CNN
 F 1 "100n" H 6742 1155 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric" H 6650 1200 50  0001 C CNN
 F 3 "~" H 6650 1200 50  0001 C CNN
+F 4 "885012207045" H 0   0   50  0001 C CNN "PartNumber"
+F 5 "Wurth Electronics Inc" H 0   0   50  0001 C CNN "Manufacturer"
 	1    6650 1200
 	1    0    0    -1  
 $EndComp
@@ -116,6 +130,8 @@ F 0 "C3" H 7092 1246 50  0000 L CNN
 F 1 "100n" H 7092 1155 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric" H 7000 1200 50  0001 C CNN
 F 3 "~" H 7000 1200 50  0001 C CNN
+F 4 "885012207045" H 0   0   50  0001 C CNN "PartNumber"
+F 5 "Wurth Electronics Inc" H 0   0   50  0001 C CNN "Manufacturer"
 	1    7000 1200
 	1    0    0    -1  
 $EndComp
@@ -153,6 +169,8 @@ F 0 "C15" H 9342 996 50  0000 L CNN
 F 1 "4.7u" H 9342 905 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric" H 9250 950 50  0001 C CNN
 F 3 "~" H 9250 950 50  0001 C CNN
+F 4 "Wurth Electronics Inc" H 0   0   50  0001 C CNN "Manufacturer"
+F 5 "885012107013" H 0   0   50  0001 C CNN "PartNumber"
 	1    9250 950 
 	1    0    0    -1  
 $EndComp
@@ -201,6 +219,7 @@ F 1 "S25FL132K0XMFI010" H 4600 7381 60  0000 C CNN
 F 2 "Package_SO:SO-8_5.3x6.2mm_P1.27mm" H 4600 7340 60  0001 C CNN
 F 3 "" H 3100 7100 60  0000 C CNN
 F 4 "W25Q32JVSSIQ" H 0   0   50  0001 C CNN "PartNumber"
+F 5 "Winbond Electronics" H 0   0   50  0001 C CNN "Manufacturer"
 	1    3100 7100
 	1    0    0    -1  
 $EndComp
@@ -248,6 +267,8 @@ F 0 "C1" H 6492 7296 50  0000 L CNN
 F 1 "100n" H 6492 7205 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric" H 6400 7250 50  0001 C CNN
 F 3 "~" H 6400 7250 50  0001 C CNN
+F 4 "885012207045" H 0   0   50  0001 C CNN "PartNumber"
+F 5 "Wurth Electronics Inc" H 0   0   50  0001 C CNN "Manufacturer"
 	1    6400 7250
 	1    0    0    -1  
 $EndComp
@@ -290,6 +311,7 @@ F 1 "Micro_SD_Card" H 10000 6426 50  0000 C CNN
 F 2 "Connector_Card:microSD_HC_Hirose_DM3AT-SF-PEJM5" H 11200 6100 50  0001 C CNN
 F 3 "http://katalog.we-online.de/em/datasheet/693072010801.pdf" H 10050 5800 50  0001 C CNN
 F 4 "DM3AT-SF-PEJM5" H 10050 5800 50  0001 C CNN "PartNumber"
+F 5 "Hirose Electric Co Ltd" H 0   0   50  0001 C CNN "Manufacturer"
 	1    10050 5800
 	1    0    0    -1  
 $EndComp
@@ -316,6 +338,8 @@ F 0 "C14" H 8708 5854 50  0000 R CNN
 F 1 "100n" H 8708 5945 50  0000 R CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric" H 8800 5900 50  0001 C CNN
 F 3 "~" H 8800 5900 50  0001 C CNN
+F 4 "885012207045" H 0   0   50  0001 C CNN "PartNumber"
+F 5 "Wurth Electronics Inc" H 0   0   50  0001 C CNN "Manufacturer"
 	1    8800 5900
 	1    0    0    1   
 $EndComp
@@ -371,6 +395,7 @@ F 1 "USB_B_Micro" H 2721 5350 50  0000 R CNN
 F 2 "Connector_USB:USB_Micro-B_Molex-105017-0001" H 3100 5400 50  0001 C CNN
 F 3 "~" H 3100 5400 50  0001 C CNN
 F 4 "105017-0001" H 0   0   50  0001 C CNN "PartNumber"
+F 5 "Molex, LLC" H 0   0   50  0001 C CNN "Manufacturer"
 	1    2950 5450
 	-1   0    0    -1  
 $EndComp
@@ -383,6 +408,7 @@ F 1 "USB_B_Micro" H 2721 4450 50  0000 R CNN
 F 2 "Connector_USB:USB_Micro-B_Molex-105017-0001" H 3100 4500 50  0001 C CNN
 F 3 "~" H 3100 4500 50  0001 C CNN
 F 4 "105017-0001" H 0   0   50  0001 C CNN "PartNumber"
+F 5 "Molex, LLC" H 0   0   50  0001 C CNN "Manufacturer"
 	1    2950 4550
 	-1   0    0    -1  
 $EndComp
@@ -445,6 +471,7 @@ F 1 " 16MHz" H 2941 1305 50  0000 L CNN
 F 2 "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering" H 2750 1350 50  0001 C CNN
 F 3 "~" H 2750 1350 50  0001 C CNN
 F 4 "TSX-3225 16.0000MF09Z-AC0" H 0   0   50  0001 C CNN "PartNumber"
+F 5 "EPSON" H 0   0   50  0001 C CNN "Manufacturer"
 	1    2750 1350
 	-1   0    0    -1  
 $EndComp
@@ -458,6 +485,8 @@ F 0 "C5" H 2692 1046 50  0000 L CNN
 F 1 "18p" H 2692 955 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric" H 2600 1000 50  0001 C CNN
 F 3 "~" H 2600 1000 50  0001 C CNN
+F 4 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "Manufacturer"
+F 5 "CL21C180JBANNNC" H 0   0   50  0001 C CNN "PartNumber"
 	1    2600 1000
 	1    0    0    -1  
 $EndComp
@@ -469,6 +498,8 @@ F 0 "C6" H 2992 1046 50  0000 L CNN
 F 1 "18p" H 2992 955 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric" H 2900 1000 50  0001 C CNN
 F 3 "~" H 2900 1000 50  0001 C CNN
+F 4 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "Manufacturer"
+F 5 "CL21C180JBANNNC" H 0   0   50  0001 C CNN "PartNumber"
 	1    2900 1000
 	1    0    0    -1  
 $EndComp
@@ -500,6 +531,8 @@ F 0 "C9" H 3592 1046 50  0000 L CNN
 F 1 "18p" H 3592 955 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric" H 3500 1000 50  0001 C CNN
 F 3 "~" H 3500 1000 50  0001 C CNN
+F 4 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "Manufacturer"
+F 5 "CL21C180JBANNNC" H 0   0   50  0001 C CNN "PartNumber"
 	1    3500 1000
 	1    0    0    -1  
 $EndComp
@@ -511,6 +544,8 @@ F 0 "C11" H 3892 1046 50  0000 L CNN
 F 1 "18p" H 3892 955 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric" H 3800 1000 50  0001 C CNN
 F 3 "~" H 3800 1000 50  0001 C CNN
+F 4 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "Manufacturer"
+F 5 "CL21C180JBANNNC" H 0   0   50  0001 C CNN "PartNumber"
 	1    3800 1000
 	1    0    0    -1  
 $EndComp
@@ -533,6 +568,7 @@ F 1 "32.768KHz" H 3841 1305 50  0000 L CNN
 F 2 "Crystal:Crystal_SMD_MicroCrystal_CC8V-T1A-2Pin_2.0x1.2mm_HandSoldering" H 3650 1350 50  0001 C CNN
 F 3 "~" H 3650 1350 50  0001 C CNN
 F 4 "SC20S-7PF20PPM" H 0   0   50  0001 C CNN "PartNumber"
+F 5 "Seiko Instruments" H 0   0   50  0001 C CNN "Manufacturer"
 	1    3650 1350
 	-1   0    0    -1  
 $EndComp
@@ -546,6 +582,7 @@ F 1 "AP1117-33" H 10250 1001 50  0000 C CNN
 F 2 "Package_TO_SOT_SMD:SOT-223-3_TabPin2" H 10250 1050 50  0001 C CNN
 F 3 "http://www.diodes.com/datasheets/AP1117.pdf" H 10350 600 50  0001 C CNN
 F 4 "NCP1117ST33T3G" H 0   0   50  0001 C CNN "PartNumber"
+F 5 "ON Semiconductor" H 0   0   50  0001 C CNN "Manufacturer"
 	1    10250 850 
 	1    0    0    -1  
 $EndComp
@@ -557,6 +594,8 @@ F 0 "C16" H 9758 904 50  0000 R CNN
 F 1 "10u" H 9758 995 50  0000 R CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric" H 9850 950 50  0001 C CNN
 F 3 "~" H 9850 950 50  0001 C CNN
+F 4 "CL21A106KOQNNWE" H 0   0   50  0001 C CNN "PartNumber"
+F 5 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "Manufacturer"
 	1    9850 950 
 	1    0    0    1   
 $EndComp
@@ -570,6 +609,8 @@ F 0 "C17" H 10742 996 50  0000 L CNN
 F 1 "10u" H 10742 905 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric" H 10650 950 50  0001 C CNN
 F 3 "~" H 10650 950 50  0001 C CNN
+F 4 "CL21A106KOQNNWE" H 0   0   50  0001 C CNN "PartNumber"
+F 5 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "Manufacturer"
 	1    10650 950 
 	1    0    0    -1  
 $EndComp
@@ -616,6 +657,7 @@ F 1 "Conn_02x14_Odd_Even" H 1400 2126 50  0000 C CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_2x14_P2.54mm_Vertical" H 1350 1400 50  0001 C CNN
 F 3 "~" H 1350 1400 50  0001 C CNN
 F 4 "-" H 0   0   50  0001 C CNN "PartNumber"
+F 5 "-" H 0   0   50  0001 C CNN "Manufacturer"
 	1    1350 1400
 	1    0    0    -1  
 $EndComp
@@ -628,6 +670,7 @@ F 1 "Conn_02x14_Odd_Even" H 1400 3776 50  0000 C CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_2x14_P2.54mm_Vertical" H 1350 3050 50  0001 C CNN
 F 3 "~" H 1350 3050 50  0001 C CNN
 F 4 "-" H 0   0   50  0001 C CNN "PartNumber"
+F 5 "-" H 0   0   50  0001 C CNN "Manufacturer"
 	1    1350 3050
 	1    0    0    -1  
 $EndComp
@@ -640,6 +683,7 @@ F 1 "Conn_02x08_Odd_Even" H 1400 4826 50  0000 C CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical" H 1350 4400 50  0001 C CNN
 F 3 "~" H 1350 4400 50  0001 C CNN
 F 4 "-" H 0   0   50  0001 C CNN "PartNumber"
+F 5 "-" H 0   0   50  0001 C CNN "Manufacturer"
 	1    1350 4400
 	1    0    0    -1  
 $EndComp
@@ -652,6 +696,7 @@ F 1 "Conn_02x02_Odd_Even" H 1400 5276 50  0000 C CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical" H 1350 5150 50  0001 C CNN
 F 3 "~" H 1350 5150 50  0001 C CNN
 F 4 "-" H 0   0   50  0001 C CNN "PartNumber"
+F 5 "-" H 0   0   50  0001 C CNN "Manufacturer"
 	1    1350 5150
 	1    0    0    -1  
 $EndComp
@@ -664,6 +709,7 @@ F 1 "SW_Push" H 1450 6344 50  0000 C CNN
 F 2 "Button_Switch_THT:SW_Tactile_SPST_Angled_PTS645Vx31-2LFS" H 1450 6350 50  0001 C CNN
 F 3 "" H 1450 6350 50  0001 C CNN
 F 4 "PTS645VL31-2 LFS" H 0   0   50  0001 C CNN "PartNumber"
+F 5 "C&K" H 0   0   50  0001 C CNN "Manufacturer"
 	1    1450 6150
 	1    0    0    -1  
 $EndComp
@@ -676,6 +722,7 @@ F 1 "SW_Push" H 1450 5944 50  0000 C CNN
 F 2 "Button_Switch_THT:SW_Tactile_SPST_Angled_PTS645Vx31-2LFS" H 1450 5950 50  0001 C CNN
 F 3 "" H 1450 5950 50  0001 C CNN
 F 4 "PTS645VL31-2 LFS" H 0   0   50  0001 C CNN "PartNumber"
+F 5 "C&K" H 0   0   50  0001 C CNN "Manufacturer"
 	1    1450 5750
 	1    0    0    -1  
 $EndComp
@@ -688,6 +735,7 @@ F 1 "USB_B_Micro" H 2721 3650 50  0000 R CNN
 F 2 "Connector_USB:USB_Micro-B_Molex-105017-0001" H 3100 3700 50  0001 C CNN
 F 3 "~" H 3100 3700 50  0001 C CNN
 F 4 "105017-0001" H 0   0   50  0001 C CNN "PartNumber"
+F 5 "Molex, LLC" H 0   0   50  0001 C CNN "Manufacturer"
 	1    2950 3750
 	-1   0    0    -1  
 $EndComp
@@ -719,6 +767,7 @@ F 1 "MountingHole_Pad" V 1295 7050 50  0000 L CNN
 F 2 "MountingHole:MountingHole_3.2mm_M3_Pad_Via" H 1250 6900 50  0001 C CNN
 F 3 "~" H 1250 6900 50  0001 C CNN
 F 4 "-" H 0   0   50  0001 C CNN "PartNumber"
+F 5 "-" H 0   0   50  0001 C CNN "Manufacturer"
 	1    1250 6900
 	0    1    1    0   
 $EndComp
@@ -731,6 +780,7 @@ F 1 "MountingHole_Pad" V 1295 7250 50  0000 L CNN
 F 2 "MountingHole:MountingHole_3.2mm_M3_Pad_Via" H 1250 7100 50  0001 C CNN
 F 3 "~" H 1250 7100 50  0001 C CNN
 F 4 "-" H 0   0   50  0001 C CNN "PartNumber"
+F 5 "-" H 0   0   50  0001 C CNN "Manufacturer"
 	1    1250 7100
 	0    1    1    0   
 $EndComp
@@ -743,6 +793,7 @@ F 1 "MountingHole_Pad" V 1295 7450 50  0000 L CNN
 F 2 "MountingHole:MountingHole_3.2mm_M3_Pad_Via" H 1250 7300 50  0001 C CNN
 F 3 "~" H 1250 7300 50  0001 C CNN
 F 4 "-" H 0   0   50  0001 C CNN "PartNumber"
+F 5 "-" H 0   0   50  0001 C CNN "Manufacturer"
 	1    1250 7300
 	0    1    1    0   
 $EndComp
@@ -755,6 +806,7 @@ F 1 "MountingHole_Pad" V 1295 7650 50  0000 L CNN
 F 2 "MountingHole:MountingHole_3.2mm_M3_Pad_Via" H 1250 7500 50  0001 C CNN
 F 3 "~" H 1250 7500 50  0001 C CNN
 F 4 "-" H 0   0   50  0001 C CNN "PartNumber"
+F 5 "-" H 0   0   50  0001 C CNN "Manufacturer"
 	1    1250 7500
 	0    1    1    0   
 $EndComp
@@ -789,6 +841,7 @@ F 1 "STM32H750VBT6" H 6650 300 50  0000 C CNN
 F 2 "Package_QFP:LQFP-100_14x14mm_P0.5mm" H 5450 3200 50  0001 C CNN
 F 3 "DOCUMENTATION" H 5450 3200 50  0001 C CNN
 F 4 "STM32H750VBT6" H 0   0   50  0001 C CNN "PartNumber"
+F 5 "ST Microelectronics" H 0   0   50  0001 C CNN "Manufacturer"
 	1    5450 3200
 	1    0    0    -1  
 $EndComp
@@ -1290,6 +1343,8 @@ F 0 "D2" V 10996 982 50  0000 R CNN
 F 1 "RED" V 10905 982 50  0000 R CNN
 F 2 "LED_SMD:LED_0805_2012Metric_Castellated" V 10950 1050 50  0001 C CNN
 F 3 "~" V 10950 1050 50  0001 C CNN
+F 4 "Wurth Electronics Inc" H 0   0   50  0001 C CNN "Manufacturer"
+F 5 "150080GS75000" H 0   0   50  0001 C CNN "PartNumber"
 	1    10950 1050
 	0    -1   -1   0   
 $EndComp
@@ -1301,6 +1356,8 @@ F 0 "R2" H 10891 754 50  0000 R CNN
 F 1 "220R" H 10891 845 50  0000 R CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 10950 800 50  0001 C CNN
 F 3 "~" H 10950 800 50  0001 C CNN
+F 4 "TE Connectivity Passive Product" H 0   0   50  0001 C CNN "Manufacturer"
+F 5 "CRG0805F220R" H 0   0   50  0001 C CNN "PartNumber"
 	1    10950 800 
 	-1   0    0    1   
 $EndComp
@@ -1323,6 +1380,8 @@ F 0 "D1" V 646 6082 50  0000 R CNN
 F 1 "RED" V 555 6082 50  0000 R CNN
 F 2 "LED_SMD:LED_0805_2012Metric_Castellated" V 600 6150 50  0001 C CNN
 F 3 "~" V 600 6150 50  0001 C CNN
+F 4 "Wurth Electronics Inc" H 0   0   50  0001 C CNN "Manufacturer"
+F 5 "150080GS75000" H 0   0   50  0001 C CNN "PartNumber"
 	1    600  6150
 	0    -1   -1   0   
 $EndComp
@@ -1334,6 +1393,8 @@ F 0 "R1" H 541 5854 50  0000 R CNN
 F 1 "220R" H 541 5945 50  0000 R CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 600 5900 50  0001 C CNN
 F 3 "~" H 600 5900 50  0001 C CNN
+F 4 "TE Connectivity Passive Product" H 0   0   50  0001 C CNN "Manufacturer"
+F 5 "CRG0805F220R" H 0   0   50  0001 C CNN "PartNumber"
 	1    600  5900
 	-1   0    0    1   
 $EndComp
@@ -1347,6 +1408,8 @@ F 0 "C18" H 4042 2846 50  0000 L CNN
 F 1 "100n" H 4042 2755 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric" H 3950 2800 50  0001 C CNN
 F 3 "~" H 3950 2800 50  0001 C CNN
+F 4 "885012207045" H 0   0   50  0001 C CNN "PartNumber"
+F 5 "Wurth Electronics Inc" H 0   0   50  0001 C CNN "Manufacturer"
 	1    3950 2800
 	-1   0    0    -1  
 $EndComp
@@ -1374,6 +1437,7 @@ F 1 "SW_DIP_x01" H 1500 6726 50  0000 C CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 1500 6550 50  0001 C CNN
 F 3 "" H 1500 6550 50  0001 C CNN
 F 4 "-" H 0   0   50  0001 C CNN "PartNumber"
+F 5 "-" H 0   0   50  0001 C CNN "Manufacturer"
 	1    1500 6550
 	1    0    0    -1  
 $EndComp
@@ -1409,6 +1473,8 @@ F 0 "R3" H 2141 6504 50  0000 R CNN
 F 1 "10K" H 2141 6595 50  0000 R CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 2200 6550 50  0001 C CNN
 F 3 "~" H 2200 6550 50  0001 C CNN
+F 4 "TE Connectivity Passive Product" H 0   0   50  0001 C CNN "Manufacturer"
+F 5 "CRG0805F10K/10" H 0   0   50  0001 C CNN "PartNumber"
 	1    2200 6550
 	0    1    1    0   
 $EndComp
@@ -1436,6 +1502,7 @@ F 1 "KSZ8081RNA" H 9950 2573 50  0000 C CNN
 F 2 "Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm" H 11350 2750 50  0001 C CNN
 F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/00002199A.pdf" H 7700 3950 50  0001 C CNN
 F 4 "KSZ8081RNACA-TR" H 0   0   50  0001 C CNN "PartNumber"
+F 5 "Microchip Technology" H 0   0   50  0001 C CNN "Manufacturer"
 	1    9950 3750
 	1    0    0    -1  
 $EndComp
@@ -1462,6 +1529,8 @@ F 0 "C20" H 9308 2354 50  0000 R CNN
 F 1 "2.2u" H 9308 2445 50  0000 R CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric" H 9400 2400 50  0001 C CNN
 F 3 "~" H 9400 2400 50  0001 C CNN
+F 4 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "Manufacturer"
+F 5 "CL21A225KAFNNNG" H 0   0   50  0001 C CNN "PartNumber"
 	1    9400 2400
 	1    0    0    1   
 $EndComp
@@ -1473,6 +1542,8 @@ F 0 "C21" H 9658 2354 50  0000 R CNN
 F 1 "4.7u" H 9658 2445 50  0000 R CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric" H 9750 2400 50  0001 C CNN
 F 3 "~" H 9750 2400 50  0001 C CNN
+F 4 "Wurth Electronics Inc" H 0   0   50  0001 C CNN "Manufacturer"
+F 5 "885012107013" H 0   0   50  0001 C CNN "PartNumber"
 	1    9750 2400
 	1    0    0    1   
 $EndComp
@@ -1507,6 +1578,8 @@ F 0 "C22" H 9958 2354 50  0000 R CNN
 F 1 "100n" H 9958 2445 50  0000 R CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric" H 10050 2400 50  0001 C CNN
 F 3 "~" H 10050 2400 50  0001 C CNN
+F 4 "885012207045" H 0   0   50  0001 C CNN "PartNumber"
+F 5 "Wurth Electronics Inc" H 0   0   50  0001 C CNN "Manufacturer"
 	1    10050 2400
 	-1   0    0    1   
 $EndComp
@@ -1518,6 +1591,8 @@ F 0 "C23" H 10308 2354 50  0000 R CNN
 F 1 "100n" H 10308 2445 50  0000 R CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric" H 10400 2400 50  0001 C CNN
 F 3 "~" H 10400 2400 50  0001 C CNN
+F 4 "885012207045" H 0   0   50  0001 C CNN "PartNumber"
+F 5 "Wurth Electronics Inc" H 0   0   50  0001 C CNN "Manufacturer"
 	1    10400 2400
 	-1   0    0    1   
 $EndComp
@@ -1529,6 +1604,8 @@ F 0 "C24" H 10658 2354 50  0000 R CNN
 F 1 "4.7u" H 10658 2445 50  0000 R CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric" H 10750 2400 50  0001 C CNN
 F 3 "~" H 10750 2400 50  0001 C CNN
+F 4 "Wurth Electronics Inc" H 0   0   50  0001 C CNN "Manufacturer"
+F 5 "885012107013" H 0   0   50  0001 C CNN "PartNumber"
 	1    10750 2400
 	-1   0    0    1   
 $EndComp
@@ -1578,6 +1655,8 @@ F 0 "R7" H 10691 4204 50  0000 R CNN
 F 1 "6.49K 1%" H 10691 4295 50  0000 R CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 10750 4250 50  0001 C CNN
 F 3 "~" H 10750 4250 50  0001 C CNN
+F 4 "Panasonic Electronic Components" H 0   0   50  0001 C CNN "Manufacturer"
+F 5 "ERJ-6ENF6491V" H 0   0   50  0001 C CNN "PartNumber"
 	1    10750 4250
 	-1   0    0    1   
 $EndComp
@@ -1609,6 +1688,8 @@ F 0 "R4" V 8750 4250 50  0000 R CNN
 F 1 "10K" V 8750 4100 50  0000 R CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 8700 3850 50  0001 C CNN
 F 3 "~" H 8700 3850 50  0001 C CNN
+F 4 "TE Connectivity Passive Product" H 0   0   50  0001 C CNN "Manufacturer"
+F 5 "CRG0805F10K/10" H 0   0   50  0001 C CNN "PartNumber"
 	1    8700 3850
 	0    -1   -1   0   
 $EndComp
@@ -1620,6 +1701,8 @@ F 0 "R5" V 8750 4350 50  0000 R CNN
 F 1 "10K" V 8750 4200 50  0000 R CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 8700 3950 50  0001 C CNN
 F 3 "~" H 8700 3950 50  0001 C CNN
+F 4 "TE Connectivity Passive Product" H 0   0   50  0001 C CNN "Manufacturer"
+F 5 "CRG0805F10K/10" H 0   0   50  0001 C CNN "PartNumber"
 	1    8700 3950
 	0    -1   -1   0   
 $EndComp
@@ -1631,6 +1714,8 @@ F 0 "R6" V 8650 4650 50  0000 R CNN
 F 1 "10K" V 8650 4500 50  0000 R CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 8700 4250 50  0001 C CNN
 F 3 "~" H 8700 4250 50  0001 C CNN
+F 4 "TE Connectivity Passive Product" H 0   0   50  0001 C CNN "Manufacturer"
+F 5 "CRG0805F10K/10" H 0   0   50  0001 C CNN "PartNumber"
 	1    8700 4250
 	0    -1   -1   0   
 $EndComp
@@ -1661,6 +1746,8 @@ F 0 "C19" V 8750 3800 50  0000 R CNN
 F 1 "100n" V 8750 4000 50  0000 R CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric" H 8700 4100 50  0001 C CNN
 F 3 "~" H 8700 4100 50  0001 C CNN
+F 4 "885012207045" H 0   0   50  0001 C CNN "PartNumber"
+F 5 "Wurth Electronics Inc" H 0   0   50  0001 C CNN "Manufacturer"
 	1    8700 4100
 	0    -1   -1   0   
 $EndComp
@@ -1729,6 +1816,7 @@ F 1 "Conn_02x04_Odd_Even" H 10450 2026 50  0000 C CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Vertical" H 10400 1800 50  0001 C CNN
 F 3 "~" H 10400 1800 50  0001 C CNN
 F 4 "-" H 0   0   50  0001 C CNN "PartNumber"
+F 5 "-" H 0   0   50  0001 C CNN "Manufacturer"
 	1    10400 1800
 	1    0    0    -1  
 $EndComp
@@ -1835,6 +1923,8 @@ F 0 "R8" V 8100 2550 50  0000 R CNN
 F 1 "0R" V 8100 2400 50  0000 R CNN
 F 2 "Resistor_SMD:R_2010_5025Metric" H 8050 2150 50  0001 C CNN
 F 3 "~" H 8050 2150 50  0001 C CNN
+F 4 "Yageo" H 0   0   50  0001 C CNN "Manufacturer"
+F 5 "RC2010JK-070RL" H 0   0   50  0001 C CNN "PartNumber"
 	1    8050 2150
 	0    -1   -1   0   
 $EndComp
@@ -1846,6 +1936,8 @@ F 0 "R14" V 8100 3350 50  0000 R CNN
 F 1 "0R" V 8100 3200 50  0000 R CNN
 F 2 "Resistor_SMD:R_2010_5025Metric" H 8050 2950 50  0001 C CNN
 F 3 "~" H 8050 2950 50  0001 C CNN
+F 4 "Yageo" H 0   0   50  0001 C CNN "Manufacturer"
+F 5 "RC2010JK-070RL" H 0   0   50  0001 C CNN "PartNumber"
 	1    8050 2950
 	0    -1   -1   0   
 $EndComp
@@ -1857,6 +1949,8 @@ F 0 "R12" V 8100 2950 50  0000 R CNN
 F 1 "0R" V 8100 2800 50  0000 R CNN
 F 2 "Resistor_SMD:R_2010_5025Metric" H 8050 2550 50  0001 C CNN
 F 3 "~" H 8050 2550 50  0001 C CNN
+F 4 "Yageo" H 0   0   50  0001 C CNN "Manufacturer"
+F 5 "RC2010JK-070RL" H 0   0   50  0001 C CNN "PartNumber"
 	1    8050 2550
 	0    -1   -1   0   
 $EndComp
@@ -1868,6 +1962,8 @@ F 0 "R11" V 8100 2850 50  0000 R CNN
 F 1 "0R" V 8100 2700 50  0000 R CNN
 F 2 "Resistor_SMD:R_2010_5025Metric" H 8050 2450 50  0001 C CNN
 F 3 "~" H 8050 2450 50  0001 C CNN
+F 4 "Yageo" H 0   0   50  0001 C CNN "Manufacturer"
+F 5 "RC2010JK-070RL" H 0   0   50  0001 C CNN "PartNumber"
 	1    8050 2450
 	0    -1   -1   0   
 $EndComp
@@ -1879,6 +1975,8 @@ F 0 "R10" V 8100 2750 50  0000 R CNN
 F 1 "0R" V 8100 2600 50  0000 R CNN
 F 2 "Resistor_SMD:R_2010_5025Metric" H 8050 2350 50  0001 C CNN
 F 3 "~" H 8050 2350 50  0001 C CNN
+F 4 "Yageo" H 0   0   50  0001 C CNN "Manufacturer"
+F 5 "RC2010JK-070RL" H 0   0   50  0001 C CNN "PartNumber"
 	1    8050 2350
 	0    -1   -1   0   
 $EndComp
@@ -1890,6 +1988,8 @@ F 0 "R9" V 8100 2650 50  0000 R CNN
 F 1 "0R" V 8100 2500 50  0000 R CNN
 F 2 "Resistor_SMD:R_2010_5025Metric" H 8050 2250 50  0001 C CNN
 F 3 "~" H 8050 2250 50  0001 C CNN
+F 4 "Yageo" H 0   0   50  0001 C CNN "Manufacturer"
+F 5 "RC2010JK-070RL" H 0   0   50  0001 C CNN "PartNumber"
 	1    8050 2250
 	0    -1   -1   0   
 $EndComp
@@ -1901,6 +2001,8 @@ F 0 "R13" V 8100 3050 50  0000 R CNN
 F 1 "0R" V 8100 2900 50  0000 R CNN
 F 2 "Resistor_SMD:R_2010_5025Metric" H 8050 2650 50  0001 C CNN
 F 3 "~" H 8050 2650 50  0001 C CNN
+F 4 "Yageo" H 0   0   50  0001 C CNN "Manufacturer"
+F 5 "RC2010JK-070RL" H 0   0   50  0001 C CNN "PartNumber"
 	1    8050 2650
 	0    -1   -1   0   
 $EndComp
@@ -1920,6 +2022,8 @@ F 0 "R15" V 7600 3050 50  0000 R CNN
 F 1 "0R" V 7600 2900 50  0000 R CNN
 F 2 "Resistor_SMD:R_2010_5025Metric" H 7550 2650 50  0001 C CNN
 F 3 "~" H 7550 2650 50  0001 C CNN
+F 4 "Yageo" H 0   0   50  0001 C CNN "Manufacturer"
+F 5 "RC2010JK-070RL" H 0   0   50  0001 C CNN "PartNumber"
 	1    7550 2650
 	0    1    1    0   
 $EndComp
@@ -1944,4 +2048,33 @@ Wire Wire Line
 Connection ~ 3500 1350
 Wire Wire Line
 	3500 1350 3500 2400
+$Comp
+L Device:R_Small R16
+U 1 1 5BF30B7E
+P 3250 2700
+F 0 "R16" H 3191 2654 50  0000 R CNN
+F 1 "10K" H 3191 2745 50  0000 R CNN
+F 2 "Resistor_SMD:R_0805_2012Metric" H 3250 2700 50  0001 C CNN
+F 3 "~" H 3250 2700 50  0001 C CNN
+F 4 "TE Connectivity Passive Product" H 1050 -3850 50  0001 C CNN "Manufacturer"
+F 5 "CRG0805F10K/10" H 1050 -3850 50  0001 C CNN "PartNumber"
+	1    3250 2700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:VCC #PWR026
+U 1 1 5BF30B84
+P 3100 2700
+F 0 "#PWR026" H 3100 2550 50  0001 C CNN
+F 1 "VCC" H 3117 2873 50  0000 C CNN
+F 2 "" H 3100 2700 50  0001 C CNN
+F 3 "" H 3100 2700 50  0001 C CNN
+	1    3100 2700
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	3100 2700 3150 2700
+Wire Wire Line
+	3350 2700 3950 2700
+Connection ~ 3950 2700
 $EndSCHEMATC
