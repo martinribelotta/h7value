@@ -200,6 +200,7 @@ F 0 "U1" H 4600 7487 60  0000 C CNN
 F 1 "S25FL132K0XMFI010" H 4600 7381 60  0000 C CNN
 F 2 "Package_SO:SO-8_5.3x6.2mm_P1.27mm" H 4600 7340 60  0001 C CNN
 F 3 "" H 3100 7100 60  0000 C CNN
+F 4 "W25Q32JVSSIQ" H 0   0   50  0001 C CNN "PartNumber"
 	1    3100 7100
 	1    0    0    -1  
 $EndComp
@@ -288,6 +289,7 @@ F 0 "J1" H 10000 6517 50  0000 C CNN
 F 1 "Micro_SD_Card" H 10000 6426 50  0000 C CNN
 F 2 "Connector_Card:microSD_HC_Hirose_DM3AT-SF-PEJM5" H 11200 6100 50  0001 C CNN
 F 3 "http://katalog.we-online.de/em/datasheet/693072010801.pdf" H 10050 5800 50  0001 C CNN
+F 4 "DM3AT-SF-PEJM5" H 10050 5800 50  0001 C CNN "PartNumber"
 	1    10050 5800
 	1    0    0    -1  
 $EndComp
@@ -368,6 +370,7 @@ F 0 "J3" H 2721 5441 50  0000 R CNN
 F 1 "USB_B_Micro" H 2721 5350 50  0000 R CNN
 F 2 "Connector_USB:USB_Micro-B_Molex-105017-0001" H 3100 5400 50  0001 C CNN
 F 3 "~" H 3100 5400 50  0001 C CNN
+F 4 "105017-0001" H 0   0   50  0001 C CNN "PartNumber"
 	1    2950 5450
 	-1   0    0    -1  
 $EndComp
@@ -379,6 +382,7 @@ F 0 "J2" H 2721 4541 50  0000 R CNN
 F 1 "USB_B_Micro" H 2721 4450 50  0000 R CNN
 F 2 "Connector_USB:USB_Micro-B_Molex-105017-0001" H 3100 4500 50  0001 C CNN
 F 3 "~" H 3100 4500 50  0001 C CNN
+F 4 "105017-0001" H 0   0   50  0001 C CNN "PartNumber"
 	1    2950 4550
 	-1   0    0    -1  
 $EndComp
@@ -437,9 +441,10 @@ L Device:Crystal_GND24 Y1
 U 1 1 5BBF066B
 P 2750 1350
 F 0 "Y1" H 2941 1396 50  0000 L CNN
-F 1 "8MHz" H 2941 1305 50  0000 L CNN
+F 1 " 16MHz" H 2941 1305 50  0000 L CNN
 F 2 "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering" H 2750 1350 50  0001 C CNN
 F 3 "~" H 2750 1350 50  0001 C CNN
+F 4 "TSX-3225 16.0000MF09Z-AC0" H 0   0   50  0001 C CNN "PartNumber"
 	1    2750 1350
 	-1   0    0    -1  
 $EndComp
@@ -518,24 +523,20 @@ Connection ~ 3500 900
 Wire Wire Line
 	3500 900  3800 900 
 Wire Wire Line
-	3500 1100 3500 1350
-Wire Wire Line
 	3800 1100 3800 1350
 $Comp
-L Device:Crystal_GND23 Y2
+L Device:Crystal_Small Y2
 U 1 1 5BBF7D52
 P 3650 1350
 F 0 "Y2" H 3841 1396 50  0000 L CNN
 F 1 "32.768KHz" H 3841 1305 50  0000 L CNN
-F 2 "Crystal:Crystal_SMD_SeikoEpson_MC156-4Pin_7.1x2.5mm" H 3650 1350 50  0001 C CNN
+F 2 "Crystal:Crystal_SMD_MicroCrystal_CC8V-T1A-2Pin_2.0x1.2mm_HandSoldering" H 3650 1350 50  0001 C CNN
 F 3 "~" H 3650 1350 50  0001 C CNN
+F 4 "SC20S-7PF20PPM" H 0   0   50  0001 C CNN "PartNumber"
 	1    3650 1350
 	-1   0    0    -1  
 $EndComp
-Connection ~ 3500 1350
 Connection ~ 3800 1350
-NoConn ~ 3650 1150
-NoConn ~ 3650 1550
 $Comp
 L Regulator_Linear:AP1117-33 U3
 U 1 1 5BBFA429
@@ -544,6 +545,7 @@ F 0 "U3" H 10250 1092 50  0000 C CNN
 F 1 "AP1117-33" H 10250 1001 50  0000 C CNN
 F 2 "Package_TO_SOT_SMD:SOT-223-3_TabPin2" H 10250 1050 50  0001 C CNN
 F 3 "http://www.diodes.com/datasheets/AP1117.pdf" H 10350 600 50  0001 C CNN
+F 4 "NCP1117ST33T3G" H 0   0   50  0001 C CNN "PartNumber"
 	1    10250 850 
 	1    0    0    -1  
 $EndComp
@@ -613,6 +615,7 @@ F 0 "J4" H 1400 2217 50  0000 C CNN
 F 1 "Conn_02x14_Odd_Even" H 1400 2126 50  0000 C CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_2x14_P2.54mm_Vertical" H 1350 1400 50  0001 C CNN
 F 3 "~" H 1350 1400 50  0001 C CNN
+F 4 "-" H 0   0   50  0001 C CNN "PartNumber"
 	1    1350 1400
 	1    0    0    -1  
 $EndComp
@@ -624,6 +627,7 @@ F 0 "J5" H 1400 3867 50  0000 C CNN
 F 1 "Conn_02x14_Odd_Even" H 1400 3776 50  0000 C CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_2x14_P2.54mm_Vertical" H 1350 3050 50  0001 C CNN
 F 3 "~" H 1350 3050 50  0001 C CNN
+F 4 "-" H 0   0   50  0001 C CNN "PartNumber"
 	1    1350 3050
 	1    0    0    -1  
 $EndComp
@@ -635,6 +639,7 @@ F 0 "J6" H 1400 4917 50  0000 C CNN
 F 1 "Conn_02x08_Odd_Even" H 1400 4826 50  0000 C CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical" H 1350 4400 50  0001 C CNN
 F 3 "~" H 1350 4400 50  0001 C CNN
+F 4 "-" H 0   0   50  0001 C CNN "PartNumber"
 	1    1350 4400
 	1    0    0    -1  
 $EndComp
@@ -646,6 +651,7 @@ F 0 "J7" H 1400 5367 50  0000 C CNN
 F 1 "Conn_02x02_Odd_Even" H 1400 5276 50  0000 C CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical" H 1350 5150 50  0001 C CNN
 F 3 "~" H 1350 5150 50  0001 C CNN
+F 4 "-" H 0   0   50  0001 C CNN "PartNumber"
 	1    1350 5150
 	1    0    0    -1  
 $EndComp
@@ -657,6 +663,7 @@ F 0 "SW1" H 1450 6435 50  0000 C CNN
 F 1 "SW_Push" H 1450 6344 50  0000 C CNN
 F 2 "Button_Switch_THT:SW_Tactile_SPST_Angled_PTS645Vx31-2LFS" H 1450 6350 50  0001 C CNN
 F 3 "" H 1450 6350 50  0001 C CNN
+F 4 "PTS645VL31-2 LFS" H 0   0   50  0001 C CNN "PartNumber"
 	1    1450 6150
 	1    0    0    -1  
 $EndComp
@@ -668,6 +675,7 @@ F 0 "SW2" H 1450 6035 50  0000 C CNN
 F 1 "SW_Push" H 1450 5944 50  0000 C CNN
 F 2 "Button_Switch_THT:SW_Tactile_SPST_Angled_PTS645Vx31-2LFS" H 1450 5950 50  0001 C CNN
 F 3 "" H 1450 5950 50  0001 C CNN
+F 4 "PTS645VL31-2 LFS" H 0   0   50  0001 C CNN "PartNumber"
 	1    1450 5750
 	1    0    0    -1  
 $EndComp
@@ -679,6 +687,7 @@ F 0 "J8" H 2721 3741 50  0000 R CNN
 F 1 "USB_B_Micro" H 2721 3650 50  0000 R CNN
 F 2 "Connector_USB:USB_Micro-B_Molex-105017-0001" H 3100 3700 50  0001 C CNN
 F 3 "~" H 3100 3700 50  0001 C CNN
+F 4 "105017-0001" H 0   0   50  0001 C CNN "PartNumber"
 	1    2950 3750
 	-1   0    0    -1  
 $EndComp
@@ -709,6 +718,7 @@ F 0 "H1" V 1204 7050 50  0000 L CNN
 F 1 "MountingHole_Pad" V 1295 7050 50  0000 L CNN
 F 2 "MountingHole:MountingHole_3.2mm_M3_Pad_Via" H 1250 6900 50  0001 C CNN
 F 3 "~" H 1250 6900 50  0001 C CNN
+F 4 "-" H 0   0   50  0001 C CNN "PartNumber"
 	1    1250 6900
 	0    1    1    0   
 $EndComp
@@ -720,6 +730,7 @@ F 0 "H2" V 1204 7250 50  0000 L CNN
 F 1 "MountingHole_Pad" V 1295 7250 50  0000 L CNN
 F 2 "MountingHole:MountingHole_3.2mm_M3_Pad_Via" H 1250 7100 50  0001 C CNN
 F 3 "~" H 1250 7100 50  0001 C CNN
+F 4 "-" H 0   0   50  0001 C CNN "PartNumber"
 	1    1250 7100
 	0    1    1    0   
 $EndComp
@@ -731,6 +742,7 @@ F 0 "H3" V 1204 7450 50  0000 L CNN
 F 1 "MountingHole_Pad" V 1295 7450 50  0000 L CNN
 F 2 "MountingHole:MountingHole_3.2mm_M3_Pad_Via" H 1250 7300 50  0001 C CNN
 F 3 "~" H 1250 7300 50  0001 C CNN
+F 4 "-" H 0   0   50  0001 C CNN "PartNumber"
 	1    1250 7300
 	0    1    1    0   
 $EndComp
@@ -742,6 +754,7 @@ F 0 "H4" V 1204 7650 50  0000 L CNN
 F 1 "MountingHole_Pad" V 1295 7650 50  0000 L CNN
 F 2 "MountingHole:MountingHole_3.2mm_M3_Pad_Via" H 1250 7500 50  0001 C CNN
 F 3 "~" H 1250 7500 50  0001 C CNN
+F 4 "-" H 0   0   50  0001 C CNN "PartNumber"
 	1    1250 7500
 	0    1    1    0   
 $EndComp
@@ -775,6 +788,7 @@ F 0 "U2" H 6600 150 50  0000 C CNN
 F 1 "STM32H750VBT6" H 6650 300 50  0000 C CNN
 F 2 "Package_QFP:LQFP-100_14x14mm_P0.5mm" H 5450 3200 50  0001 C CNN
 F 3 "DOCUMENTATION" H 5450 3200 50  0001 C CNN
+F 4 "STM32H750VBT6" H 0   0   50  0001 C CNN "PartNumber"
 	1    5450 3200
 	1    0    0    -1  
 $EndComp
@@ -845,8 +859,6 @@ Wire Wire Line
 	3800 1350 3800 2300
 Wire Wire Line
 	4300 2400 3500 2400
-Wire Wire Line
-	3500 1350 3500 2400
 Wire Wire Line
 	4300 2500 2900 2500
 Wire Wire Line
@@ -1359,8 +1371,9 @@ U 1 1 5BD835CA
 P 1500 6550
 F 0 "SW3" H 1500 6817 50  0000 C CNN
 F 1 "SW_DIP_x01" H 1500 6726 50  0000 C CNN
-F 2 "Button_Switch_SMD:SW_DIP_SPSTx01_Slide_6.7x4.1mm_W6.73mm_P2.54mm_LowProfile_JPin" H 1500 6550 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 1500 6550 50  0001 C CNN
 F 3 "" H 1500 6550 50  0001 C CNN
+F 4 "-" H 0   0   50  0001 C CNN "PartNumber"
 	1    1500 6550
 	1    0    0    -1  
 $EndComp
@@ -1422,6 +1435,7 @@ F 0 "U4" H 9950 2664 50  0000 C CNN
 F 1 "KSZ8081RNA" H 9950 2573 50  0000 C CNN
 F 2 "Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm" H 11350 2750 50  0001 C CNN
 F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/00002199A.pdf" H 7700 3950 50  0001 C CNN
+F 4 "KSZ8081RNACA-TR" H 0   0   50  0001 C CNN "PartNumber"
 	1    9950 3750
 	1    0    0    -1  
 $EndComp
@@ -1490,7 +1504,7 @@ L Device:C_Small C22
 U 1 1 5BEDE0D8
 P 10050 2400
 F 0 "C22" H 9958 2354 50  0000 R CNN
-F 1 "0.1u" H 9958 2445 50  0000 R CNN
+F 1 "100n" H 9958 2445 50  0000 R CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric" H 10050 2400 50  0001 C CNN
 F 3 "~" H 10050 2400 50  0001 C CNN
 	1    10050 2400
@@ -1501,7 +1515,7 @@ L Device:C_Small C23
 U 1 1 5BEDE221
 P 10400 2400
 F 0 "C23" H 10308 2354 50  0000 R CNN
-F 1 "0.1u" H 10308 2445 50  0000 R CNN
+F 1 "100n" H 10308 2445 50  0000 R CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric" H 10400 2400 50  0001 C CNN
 F 3 "~" H 10400 2400 50  0001 C CNN
 	1    10400 2400
@@ -1644,7 +1658,7 @@ L Device:C_Small C19
 U 1 1 5BF414C7
 P 8700 4100
 F 0 "C19" V 8750 3800 50  0000 R CNN
-F 1 "0.1u" V 8750 4000 50  0000 R CNN
+F 1 "100n" V 8750 4000 50  0000 R CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric" H 8700 4100 50  0001 C CNN
 F 3 "~" H 8700 4100 50  0001 C CNN
 	1    8700 4100
@@ -1714,6 +1728,7 @@ F 0 "J9" H 10450 2117 50  0000 C CNN
 F 1 "Conn_02x04_Odd_Even" H 10450 2026 50  0000 C CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Vertical" H 10400 1800 50  0001 C CNN
 F 3 "~" H 10400 1800 50  0001 C CNN
+F 4 "-" H 0   0   50  0001 C CNN "PartNumber"
 	1    10400 1800
 	1    0    0    -1  
 $EndComp
@@ -1920,4 +1935,13 @@ Wire Wire Line
 	7350 2550 7950 2550
 Wire Wire Line
 	7450 2650 7350 2650
+Wire Wire Line
+	3750 1350 3800 1350
+Wire Wire Line
+	3500 1100 3500 1350
+Wire Wire Line
+	3550 1350 3500 1350
+Connection ~ 3500 1350
+Wire Wire Line
+	3500 1350 3500 2400
 $EndSCHEMATC
